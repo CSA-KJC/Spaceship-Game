@@ -186,9 +186,3 @@ def new_planet():
         fly()
     
 start()
-
-
-
-#Katie Chiu
-#Computer Programming 12th
-#October 12, 2017
